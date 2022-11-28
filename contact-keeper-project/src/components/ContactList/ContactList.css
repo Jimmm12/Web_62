@@ -1,0 +1,14 @@
+.form-all {
+    margin-top: 20px;
+    background: aliceblue;
+    padding: 20px;
+    position: relative
+}
+.ED {
+    margin: 10px;
+}
+.Types {
+    position: absolute;
+    right:50px;
+    top: 40px;
+}
